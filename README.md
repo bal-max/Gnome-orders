@@ -10,6 +10,7 @@
 - **`gnoms_defolt_task.ipynb`**: Основной Jupyter Notebook с кодом построения и анализа моделей.
 - **`README.md`**: Документация проекта.
 - **`requirements.txt`**: Зависимости для запуска проекта.
+- **data/**
 
 ---
 
